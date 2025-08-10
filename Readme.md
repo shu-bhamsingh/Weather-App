@@ -4,7 +4,7 @@ A simple and responsive web-based application that provides **real-time weather 
 Users can get weather details for their **current location** or search for **any city worldwide**.
 
 ## 🌐 Live Demo
-[Click here to view the app](https://yashsarode45.github.io/Weather-App/)
+[Click here to view the app](https://weather-app-neon-two-53.vercel.app/)
 
 ---
 
